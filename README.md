@@ -1,4 +1,4 @@
-# MahlerMagic
+# magicMahler
 
 ## Features
 
