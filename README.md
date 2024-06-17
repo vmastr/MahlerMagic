@@ -19,4 +19,4 @@
 ## Installation 
 
 ```bash
-pip install MahlerMagic
+pip install magicMahler
